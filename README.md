@@ -1,4 +1,14 @@
 # BetterDiscord-Darker-Theme
-Custom CSS for a darker Discord Theme with BetterDiscord
+Custom css for a darker Discord theme with BetterDiscord.
 
-Add CSS to your custom CSS under BetterDiscord options and save.
+In the custom css editor in BetterDiscord, add this line to modify the theme:
+
+```css
+@import url(https://markrosos.github.io/BetterDiscord-Darker-Theme/theme.css);
+```
+
+To change Discord back to its old fonts:
+
+```css
+@import url(https://markrosos.github.io/BetterDiscord-Darker-Theme/theme.css);
+```
