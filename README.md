@@ -1,5 +1,5 @@
 # BetterDiscord-Darker-Theme
-Custom css for a darker Discord theme with BetterDiscord. Changes colors only, no other modifications.
+Custom css for a slightly darker Discord theme with BetterDiscord. Changes colors only, no other modifications.
 
 ![alt text](https://github.com/markrosos/BetterDiscord-Darker-Theme/blob/main/preview.png?raw=true)
 
